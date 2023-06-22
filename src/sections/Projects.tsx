@@ -227,7 +227,7 @@ function Projects() {
                     </li>
                     <li className="project-info-links-item">
                       <Link
-                        href={projectExternalLinks.externalLink}
+                        href={projectLink}
                         className="project-info-links-item-link"
                       >
                         <FiExternalLink />
