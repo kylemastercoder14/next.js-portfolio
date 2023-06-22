@@ -29,8 +29,7 @@ function About() {
         <div className="about-grid-info">
           <p className="about-grid-info-text">
             Yow! My name is Kyle Andre, and I am passionate about creating
-            digital content for the web. My interest in web development was
-            sparked in 2021 when I created my first project called Cafe 2628, a
+            digital content for the web. My interest in web development sparked in 2021 when I created my first project called Cafe 2628, a
             Cofee Shop Website built using Javascript and HTML.
           </p>
           <p className="about-grid-info-text">
