@@ -22,7 +22,7 @@ function Projects() {
       ],
       projectExternalLinks: {
         github: "",
-        externalLink: "",
+        externalLink: "/",
       },
     },
     {
@@ -41,7 +41,7 @@ function Projects() {
       ],
       projectExternalLinks: {
         github: "",
-        externalLink: "",
+        externalLink: "https://kld-website.vercel.app/",
       },
     },
     {
@@ -60,7 +60,7 @@ function Projects() {
       ],
       projectExternalLinks: {
         github: "",
-        externalLink: "",
+        externalLink: "https://chongschickeninasal.000webhostapp.com/",
       },
     },
     {
@@ -79,7 +79,7 @@ function Projects() {
       ],
       projectExternalLinks: {
         github: "",
-        externalLink: "",
+        externalLink: "/",
       },
     },
     {
@@ -98,7 +98,7 @@ function Projects() {
       ],
       projectExternalLinks: {
         github: "",
-        externalLink: "",
+        externalLink: "https://brgyzone1a.000webhostapp.com/",
       },
     },
     {
@@ -117,7 +117,7 @@ function Projects() {
       ],
       projectExternalLinks: {
         github: "",
-        externalLink: "",
+        externalLink: "https://amirasbucotarthaus.000webhostapp.com/",
       },
     },
     {
@@ -136,7 +136,7 @@ function Projects() {
       ],
       projectExternalLinks: {
         github: "",
-        externalLink: "",
+        externalLink: "/",
       },
     },
     {
@@ -155,7 +155,7 @@ function Projects() {
       ],
       projectExternalLinks: {
         github: "",
-        externalLink: "",
+        externalLink: "/",
       },
     },
   ];
@@ -227,7 +227,7 @@ function Projects() {
                     </li>
                     <li className="project-info-links-item">
                       <Link
-                        href={projectLink}
+                        href={projectExternalLinks.externalLink}
                         className="project-info-links-item-link"
                       >
                         <FiExternalLink />
