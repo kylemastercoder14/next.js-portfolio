@@ -51,7 +51,7 @@ function Hero() {
           delay: 1.35,
         }}
       >
-        I am Information System student with expertise in creating top-notch
+        I am an Information System student with expertise in creating top-notch
         digital experiences. My current focus is on developing products that are
         accessible and centered around user needs.
       </motion.p>
