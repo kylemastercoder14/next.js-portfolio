@@ -48,7 +48,7 @@ function About() {
             <Link
               className="link"
               target="_blank"
-              href="https://frontendvita.com"
+              href="https://spotify-clone-kylemastercoder.vercel.app/"
             >
               Spotify Clone,
             </Link>
