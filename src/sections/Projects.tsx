@@ -158,6 +158,25 @@ function Projects() {
         externalLink: "/",
       },
     },
+    {
+      image: "/spotify.png",
+      projectName: "Spotify Clone",
+      projectLink: "https://spotify-clone-kylemastercoder.vercel.app/",
+      projectDescription:
+        "Spotify is a leading digital music streaming platform that allows users to access a vast catalog of songs, podcasts, and other audio content. Launched in 2008, Spotify offers a user-friendly interface available on various devices, including smartphones, tablets, computers, and smart speakers.",
+      projectTech: [
+        "Next Js",
+        "Supabase",
+        "Stripe",
+        "Tailwind CSS",
+        "PostgreSQL",
+        "Stripe",
+      ],
+      projectExternalLinks: {
+        github: "",
+        externalLink: "https://spotify-clone-kylemastercoder.vercel.app/",
+      },
+    },
   ];
   return (
     <div className="projects" id="work">
